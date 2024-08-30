@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "Assistant Professor"
   location         : "Chengdu, Sichuan Province"
-  employer         : "School of Computing and <br> Artificial Intelligence <br> Southwestern University <br> of Finance and Economics"
+  employer         : "SWUFE"
   uri              : # URL
   email            : "liyonghao@swufe.edu.cn" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5653-4907"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
