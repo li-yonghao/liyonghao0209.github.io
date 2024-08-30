@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李永豪/Yonghao Li"
-  pronouns         : # example: "she/her"  
+  name             : "李永豪"
+  pronouns         : # example: "he/his"  
   bio              : "Assistant Professor"
-  location         : "No. 555 Liutai Avenue, Wenjiang District, Chengdu, Sichuan Province"
-  employer         : "School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics"
+  location         : "Chengdu, Sichuan Province"
+  employer         : "Southwestern University of Finance and Economics"
   uri              : # URL
   email            : "liyonghao@swufe.edu.cn" 
 
